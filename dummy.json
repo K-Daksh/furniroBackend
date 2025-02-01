@@ -1,0 +1,182 @@
+{
+  "1": {
+    "name": "Syltherine",
+    "price": 2500000,
+    "description": "stylish cafe chair",
+    "image": "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bnoOefMLqBYsuHqkXNnjW9JI7q6sGB6zvpNOWwOe2Lym4hPOMgfdrtXM9jbcrBjcIO-gQsFygJAQD9QhA8e5dKUie8qmtG1w-n2E29t-lKq968T4kCfslZC3UDmWFm0KmOlNnIdzfDwVZ818fFk8oS8rCMB3XuroclgjVH6te1~ti2jBjT5x7SRrWf3gUwLPVN2bsbLGIfTXciPrW6XcgZcl8Vj-kGZQwTCzsjoSPeoV-dtDxPAXJWwv86uf5TC9qUFFydTgPelMNw6RT~~LB6WFD~RHzWMLeZFPUS5COPeJruIjGqFplmpnKIKlYYE6mzJSKzCNWp-by-Ls2rNyrw__",
+    "additionalImages": [
+      "https://s3-alpha-sig.figma.com/img/3ed3/53ed/bdb0310fb379a6b1828809d2c0652533?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=h5ZFS~0rK5j0XpSSSPYVUpCwCWLN8u9aGVVZHOIa7YSl-xdKP2DStyf~Y5kVumKKC0GbwaxfCAnXQYh2-6VrIzCF6kv8xapRSVUjsgv4mHO05g~u2cQWz6~lVJgHglpx1Bn1XSjwq~8YihY4pCL~xIrHT6bSJWh-Dv6b9FziePM2CEvn1t0ea1DufixLdqDmSzHAUeCidL0xBEFiqdXN5qH~LvN-ANj1RtLxZ~HbxMEgLXvxCww5GJ2muBKMcbuUwJw~0bjwZK2JYH9QrTcjABf147821zv7RNtFOtV09oAJ1uSJDCqQwV0of0dn3JOprFDgwRPL~l8ruUhg3hTzyw__",
+      "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bnoOefMLqBYsuHqkXNnjW9JI7q6sGB6zvpNOWwOe2Lym4hPOMgfdrtXM9jbcrBjcIO-gQsFygJAQD9QhA8e5dKUie8qmtG1w-n2E29t-lKq968T4kCfslZC3UDmWFm0KmOlNnIdzfDwVZ818fFk8oS8rCMB3XuroclgjVH6te1~ti2jBjT5x7SRrWf3gUwLPVN2bsbLGIfTXciPrW6XcgZcl8Vj-kGZQwTCzsjoSPeoV-dtDxPAXJWwv86uf5TC9qUFFydTgPelMNw6RT~~LB6WFD~RHzWMLeZFPUS5COPeJruIjGqFplmpnKIKlYYE6mzJSKzCNWp-by-Ls2rNyrw__",
+      "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bnoOefMLqBYsuHqkXNnjW9JI7q6sGB6zvpNOWwOe2Lym4hPOMgfdrtXM9jbcrBjcIO-gQsFygJAQD9QhA8e5dKUie8qmtG1w-n2E29t-lKq968T4kCfslZC3UDmWFm0KmOlNnIdzfDwVZ818fFk8oS8rCMB3XuroclgjVH6te1~ti2jBjT5x7SRrWf3gUwLPVN2bsbLGIfTXciPrW6XcgZcl8Vj-kGZQwTCzsjoSPeoV-dtDxPAXJWwv86uf5TC9qUFFydTgPelMNw6RT~~LB6WFD~RHzWMLeZFPUS5COPeJruIjGqFplmpnKIKlYYE6mzJSKzCNWp-by-Ls2rNyrw__"
+    ],
+    "ratings": 4.5,
+    "sku": "TTCURBL8955RE",
+    "category": "Sofas",
+    "tag": "Living Room",
+    "color": ["#B88E2F", "#333333", "#808080", "#FFFFFF"],
+    "sizes": ["S", "M", "L", "XL XXL"],
+    "general": {
+      "salesPackage": "1 Sectional Sofa",
+      "modelNumber": "TTCURBL8955RE",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "L-Shaped",
+      "upholsteryMaterial": "Fabric + Cotton",
+      "upholsteryColor": "Bright Grey & Lion"
+    },
+    "product": {
+      "fillingMaterial": "Foam",
+      "fillingType": "Soft",
+      "adjustableHeadrest": false,
+      "maximumLoadCapacity": 280,
+      "originOfManufacture": "India"
+    },
+    "dimension": {
+      "width": 255.52,
+      "height": 70,
+      "depth": 187.98,
+      "weight": 48,
+      "seatHeight": 41.52,
+      "legHeight": 5.45
+    },
+    "warranty": {
+      "warrantySummary": "1 Year Manufacturing Warranty",
+      "warrantyServiceType": "For Warranty Claims or Service Issues, Contact Support via Email",
+      "coveredInWarranty": "Warranty Against Manufacturing Defect",
+      "notCoveredInWarranty": "Warranty Does Not Cover Damage Due to Usage or Mishandling",
+      "DomesticWarranty": 12
+    },
+    "orignalPrice": 3500000,
+    "isNew": false,
+    "salePercentage": 30
+  },
+  "2": {
+    "name": "Leviosa",
+    "price": 2500000,
+    "description": "dusri cafe chair",
+    "image": "https://s3-alpha-sig.figma.com/img/3ed3/53ed/bdb0310fb379a6b1828809d2c0652533?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=h5ZFS~0rK5j0XpSSSPYVUpCwCWLN8u9aGVVZHOIa7YSl-xdKP2DStyf~Y5kVumKKC0GbwaxfCAnXQYh2-6VrIzCF6kv8xapRSVUjsgv4mHO05g~u2cQWz6~lVJgHglpx1Bn1XSjwq~8YihY4pCL~xIrHT6bSJWh-Dv6b9FziePM2CEvn1t0ea1DufixLdqDmSzHAUeCidL0xBEFiqdXN5qH~LvN-ANj1RtLxZ~HbxMEgLXvxCww5GJ2muBKMcbuUwJw~0bjwZK2JYH9QrTcjABf147821zv7RNtFOtV09oAJ1uSJDCqQwV0of0dn3JOprFDgwRPL~l8ruUhg3hTzyw__",
+    "ratings": 4.5,
+    "sku": "TTCURBL8955RE",
+    "category": "Sofas",
+    "tag": "Living Room",
+    "color": "Bright Grey & Lion",
+    "sizes": "Standard",
+    "general": {
+      "salesPackage": "1 Sectional Sofa",
+      "modelNumber": "TTCURBL8955RE",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "L-Shaped",
+      "upholsteryMaterial": "Fabric + Cotton",
+      "upholsteryColor": "Bright Grey & Lion"
+    },
+    "product": {
+      "fillingMaterial": "Foam",
+      "fillingType": "Soft",
+      "adjustableHeadrest": false,
+      "maximumLoadCapacity": 280,
+      "originOfManufacture": "India"
+    },
+    "dimension": {
+      "width": 255.52,
+      "height": 70,
+      "depth": 187.98,
+      "weight": 48,
+      "seatHeight": 41.52,
+      "legHeight": 5.45
+    },
+    "warranty": {
+      "warrantySummary": "1 Year Manufacturing Warranty",
+      "warrantyServiceType": "For Warranty Claims or Service Issues, Contact Support via Email",
+      "coveredInWarranty": "Warranty Against Manufacturing Defect",
+      "notCoveredInWarranty": "Warranty Does Not Cover Damage Due to Usage or Mishandling",
+      "DomesticWarranty": 12
+    }
+  },
+  "3": {
+    "name": "Lolito",
+    "price": 7000000,
+    "description": "stylish cafe chair",
+    "image": "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bnoOefMLqBYsuHqkXNnjW9JI7q6sGB6zvpNOWwOe2Lym4hPOMgfdrtXM9jbcrBjcIO-gQsFygJAQD9QhA8e5dKUie8qmtG1w-n2E29t-lKq968T4kCfslZC3UDmWFm0KmOlNnIdzfDwVZ818fFk8oS8rCMB3XuroclgjVH6te1~ti2jBjT5x7SRrWf3gUwLPVN2bsbLGIfTXciPrW6XcgZcl8Vj-kGZQwTCzsjoSPeoV-dtDxPAXJWwv86uf5TC9qUFFydTgPelMNw6RT~~LB6WFD~RHzWMLeZFPUS5COPeJruIjGqFplmpnKIKlYYE6mzJSKzCNWp-by-Ls2rNyrw__",
+    "ratings": 4.5,
+    "sku": "TTCURBL8955RE",
+    "category": "Sofas",
+    "tag": "Living Room",
+    "color": "Bright Grey & Lion",
+    "sizes": "Standard",
+    "general": {
+      "salesPackage": "1 Sectional Sofa",
+      "modelNumber": "TTCURBL8955RE",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "L-Shaped",
+      "upholsteryMaterial": "Fabric + Cotton",
+      "upholsteryColor": "Bright Grey & Lion"
+    },
+    "product": {
+      "fillingMaterial": "Foam",
+      "fillingType": "Soft",
+      "adjustableHeadrest": false,
+      "maximumLoadCapacity": 280,
+      "originOfManufacture": "India"
+    },
+    "dimension": {
+      "width": 255.52,
+      "height": 70,
+      "depth": 187.98,
+      "weight": 48,
+      "seatHeight": 41.52,
+      "legHeight": 5.45
+    },
+    "warranty": {
+      "warrantySummary": "1 Year Manufacturing Warranty",
+      "warrantyServiceType": "For Warranty Claims or Service Issues, Contact Support via Email",
+      "coveredInWarranty": "Warranty Against Manufacturing Defect",
+      "notCoveredInWarranty": "Warranty Does Not Cover Damage Due to Usage or Mishandling",
+      "DomesticWarranty": 12
+    },
+    "orignalPrice": 14000000,
+    "isNew": false,
+    "salePercentage": 50
+  },
+  "4": {
+    "name": "Respira",
+    "price": 500000,
+    "description": "stylish cafe chair",
+    "image": "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bnoOefMLqBYsuHqkXNnjW9JI7q6sGB6zvpNOWwOe2Lym4hPOMgfdrtXM9jbcrBjcIO-gQsFygJAQD9QhA8e5dKUie8qmtG1w-n2E29t-lKq968T4kCfslZC3UDmWFm0KmOlNnIdzfDwVZ818fFk8oS8rCMB3XuroclgjVH6te1~ti2jBjT5x7SRrWf3gUwLPVN2bsbLGIfTXciPrW6XcgZcl8Vj-kGZQwTCzsjoSPeoV-dtDxPAXJWwv86uf5TC9qUFFydTgPelMNw6RT~~LB6WFD~RHzWMLeZFPUS5COPeJruIjGqFplmpnKIKlYYE6mzJSKzCNWp-by-Ls2rNyrw__",
+    "ratings": 4.5,
+    "sku": "TTCURBL8955RE",
+    "category": "Sofas",
+    "tag": "Living Room",
+    "color": "Bright Grey & Lion",
+    "sizes": "Standard",
+    "general": {
+      "salesPackage": "1 Sectional Sofa",
+      "modelNumber": "TTCURBL8955RE",
+      "secondaryMaterial": "Solid Wood",
+      "configuration": "L-Shaped",
+      "upholsteryMaterial": "Fabric + Cotton",
+      "upholsteryColor": "Bright Grey & Lion"
+    },
+    "product": {
+      "fillingMaterial": "Foam",
+      "fillingType": "Soft",
+      "adjustableHeadrest": false,
+      "maximumLoadCapacity": 280,
+      "originOfManufacture": "India"
+    },
+    "dimension": {
+      "width": 255.52,
+      "height": 70,
+      "depth": 187.98,
+      "weight": 48,
+      "seatHeight": 41.52,
+      "legHeight": 5.45
+    },
+    "warranty": {
+      "warrantySummary": "1 Year Manufacturing Warranty",
+      "warrantyServiceType": "For Warranty Claims or Service Issues, Contact Support via Email",
+      "coveredInWarranty": "Warranty Against Manufacturing Defect",
+      "notCoveredInWarranty": "Warranty Does Not Cover Damage Due to Usage or Mishandling",
+      "DomesticWarranty": 12
+    },
+    "isNew": true
+  }
+}
